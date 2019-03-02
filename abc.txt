@@ -1,0 +1,8 @@
+void main()
+{
+printf("enter the number");
+}
+void add()
+{
+add;
+}
